@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/sneha/Desktop/spring-boot-app/spring-boot-app/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/sneha/Desktop/spring-boot-app/spring-boot-app/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/sneha/Desktop/spring-boot-app/spring-boot-app/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\sneha\\Desktop\\spring-boot-app\\spring-boot-app\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\sneha\\Desktop\\spring-boot-app\\spring-boot-app\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/sneha/Desktop/spring-boot-app/spring-boot-app/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/sneha/Desktop/spring-boot-app/spring-boot-app/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/sneha/Desktop/spring-boot-app/spring-boot-app/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\sneha\\Desktop\\spring-boot-app\\spring-boot-app\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
