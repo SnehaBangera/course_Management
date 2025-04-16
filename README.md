@@ -28,21 +28,6 @@ A Spring Boot application with Vaadin Flow for a course management system with s
 - Add, edit, and delete courses
 - Manage users (students, faculty, and admins)
 
-### Login Information
-Use the following credentials to test the application:
-
-- **Student:**
-  - Username: student1
-  - Password: password
-
-- **Faculty:**
-  - Username: prof1
-  - Password: password
-
-- **Admin:**
-  - Username: admin
-  - Password: password
-
 ## How to Run
 
 1. Navigate to the project directory:
